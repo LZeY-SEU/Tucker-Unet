@@ -2,7 +2,7 @@
 Here provides the codes to reproduce the numerical experiments in the paper "Tucker Diffusion Model for High-dimensional Tensor Generation".
 
 <p align="center">
-  <img src="assets/TuckerUnet.pdf" alt="TuckerUnet Demo" width="700"/>
+  <img src="assets/TuckerUnet.jpg" alt="TuckerUnet Demo" width="700"/>
 </p>
 
 ## 📝 Summary
