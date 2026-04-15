@@ -1,5 +1,6 @@
 # Tucker-Unet
-Here provides the codes to reproduce the numerical experiments in the paper "Tucker Diffusion Model for High-dimensional Tensor Generation".
+Here provides the codes to reproduce the numerical experiments in the paper "Tucker Diffusion Model for High-dimensional Tensor Generation". Some experiments are based on larger scale public datasets, i.e., OrganAMNIST and the New York Yellow taxi dataset, which can be found at https://medmnist.com/ and https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page, respectively.
+
 
 <p align="center">
   <img src="assets/TuckerUnet.jpg" alt="TuckerUnet Demo" width="700"/>
@@ -7,7 +8,7 @@ Here provides the codes to reproduce the numerical experiments in the paper "Tuc
 
 ## 📝 Summary
 
-A Tucker diffusion model is proposed for learning high-dimensional tensor distributions. Indeed, the score function admits a structured decomposition under the low Tucker rank assumption, allowing it to be both accurately approximated and efficiently estimated using a carefully tailored tensor-shaped architecture named Tucker-Unet. 
+A Tucker diffusion model is proposed for learning high-dimensional tensor distributions. Indeed, the score function admits a structured decomposition under the low Tucker rank assumption, allowing it to be both accurately approximated and efficiently estimated using a carefully tailored tensor-shaped architecture named Tucker-Unet.
 
 ## Citation
 
