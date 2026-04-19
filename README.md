@@ -1,5 +1,7 @@
 # Tucker-Unet
-Here provides the codes to reproduce the numerical experiments in the paper "Tucker Diffusion Model for High-dimensional Tensor Generation". Some experiments are based on larger scale public datasets, i.e., OrganAMNIST and the New York Yellow taxi dataset, which can be found at https://medmnist.com/ and https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page, respectively.
+Here provides the codes to reproduce the numerical experiments in the paper "Tucker Diffusion Model for High-dimensional Tensor Generation". 
+
+Some experiments are based on larger scale public datasets, i.e., OrganAMNIST and the New York Yellow taxi dataset, which can be found at https://medmnist.com/ and https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page, respectively.
 
 
 <p align="center">
